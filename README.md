@@ -1,2 +1,2 @@
-# Responsive_Portfolio
-Homework assignment 2, responsive portfolio.
+# Basic-Portfolio
+Building a professional portfolio site using HTML/CSS.
